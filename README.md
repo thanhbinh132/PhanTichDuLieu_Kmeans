@@ -7,4 +7,4 @@ Dự án mô phỏng triển khai hệ thống ERP cho công ty Biti’s, tập 
 - Cấu hình hệ thống ERP với các phân hệ Sales và CRM
 - Tạo báo cáo doanh thu và theo dõi khách hàng tiềm năng
 ## Công cụ
-Odoo · Draw.io · PowerPoint · Word
+Odoo, Draw.io, PowerPoint, Word
